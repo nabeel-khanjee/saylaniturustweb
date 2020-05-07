@@ -1,0 +1,182 @@
+body{
+  background-color: #f7f8fa !important;
+}
+ /* Navbar */
+.top-icon{
+  color: #fff;
+}
+.top-text{
+  margin-bottom: 4px;
+  color: #fff;
+}
+.fab-gap{
+  margin: 5px;
+}
+.nav-img{
+  width: 200px;
+}
+
+
+/* carousel */
+.carousel-inner img {
+  margin: auto;
+  height:600px;
+}
+
+
+/* home marqee */
+font{
+  color: rgb(136, 255, 136);
+}
+.home-box{
+  background-color: #007bff!important;
+  color: #fff;
+}
+
+/* introduction */
+.intro{
+  text-align: center;
+  background-color: #f7f8fa !important;
+}
+.doing,.intro h1{
+  color: #007bff!important;
+  padding-top: 60px;
+}
+.doing,.intro span{
+  color: #28a745;
+}
+.doing,.intro img{
+  border-radius: 100%;
+  width: 40px;
+}
+.intro div{
+  text-align: left;
+}
+.doing,.intro .logo{
+  display: inline;
+}
+.doing,.intro .logo hr{
+  background-color: #28a745;
+  height: 1px;
+  width: 40px;
+  display: inline-block;
+}
+.doing,.intro .logo img{
+  display: inline;
+  margin-bottom: 50px;
+}
+.intro div p{
+  color: gray;
+  font-size: small;
+  line-height: 25px;
+}
+
+
+/* work */
+.work{
+  background-color: #007bff;
+  color: #fff;
+  text-align: center;
+  padding: 100px;
+}
+
+.work .row .col img{
+  width: 50px;
+  margin-bottom: 10px;
+}
+.work .row .col span{
+  font-size: 17px;
+  color: #28a745;
+}
+.work .row .col p{
+  font-size: 15px;
+}
+.work .row .col h1{
+  font-size: 3rem;
+}
+/* WHAT WE ARE DOING? */
+.doing{
+  text-align: center;
+  background-color: #f7f8fa !important; 
+}
+.doing .row .col{
+  padding: 15px;
+}
+.doing .row img{
+  width: 70px;
+  margin: 20px;
+}.doing .row h5{
+    padding-bottom: 20px;
+}
+/* MISSION AND UPCOMING PROJECTS */
+.upcoming{
+  background-color: #fff;
+  padding: 100px;
+}
+.upcoming h2,h6{
+  color: #007bff;
+}
+.upcoming h6{
+  display: inline;
+  padding: 25px;
+}
+.upcoming div .row .col div .row .col div {
+  background-color: #f7f8fa;
+  margin: 15px;
+  padding: 25px;
+  border: ridge 1px;
+}
+.upcoming div hr {
+  margin-left: 0;
+  background-color:#28a745;
+  height: 1px;
+  width: 60px;
+}
+.upcoming div .row .col div marquee span{
+  color: rgb(29, 62, 251);
+}
+.img-gal{
+  padding-bottom: 150px;
+}
+.img-gal img{
+  width: 250px;
+  height: 200px;
+}
+.img-gal img:hover{
+  filter: blur(4px);
+}
+.img-gal div .row .col{
+  margin: 10px;
+}
+.footer{
+  background-color: rgb(37, 39, 46) !important;
+  padding: 100px;
+}
+.footer p{
+  margin-top: 25px;
+  color: #bbb;
+  line-height: 30px;
+}
+.footer h6{
+  color: #fff;
+}
+.footer-icon{
+  color: #fff;
+  border-radius: 100%;
+  margin: 5px;
+}
+.footer hr{
+  height: 1px;
+  width: 50px;
+  background-color: #28a745;
+  margin-left: 0;
+}
+.contact-footer{
+  color: #28a745;
+}
+.foot{
+  background-color: #007bff;
+  padding: 1px;
+  padding-top: 15px;
+  color: #fff;
+}
